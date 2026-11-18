@@ -1,3 +1,3 @@
 # maven
 
-The readme.md file 
+The readme.md file automated
